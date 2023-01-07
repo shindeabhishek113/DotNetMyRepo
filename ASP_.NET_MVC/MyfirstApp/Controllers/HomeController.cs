@@ -58,7 +58,9 @@ public class HomeController : Controller
     }
 
     public IActionResult RegisterUser(string fullname,string city,string email,string password){
-        List<User>userdata = new List<User>();
+        
+        User u1 = new User();
+        List<User> userdata = u1.restoreUserData();
         User tempuser = new User(fullname,city,email,password);
         userdata.Add(tempuser);
         User u = new User();
