@@ -1,0 +1,34 @@
+@using spares;
+@{
+    ViewData["Title"] = "Display a Product";
+}
+
+<h1>Catalog</h1>
+<hr/>
+<div class="text-center">
+    @{
+        Product p = new Product();
+        List<Product> restoreproduct = p.restoreProductData();
+            <table>
+                <ol>
+                    @foreach(Product p1 in restoreproduct){
+
+                        <li>
+                            
+                            @p1.ToString()
+                            
+                        
+                        </li>
+                    } 
+
+                </ol>
+
+            </table>
+           
+           
+
+    }
+    <hr/>
+</div>
+
+

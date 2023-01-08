@@ -32,6 +32,10 @@ public class Product{
         return productd;
     }
 
+    public string ToString(){
+        return "Name:"+" "+Name+"Price"+" "+Price+"Quantity"+" "+Quantity;
+    }
+
 
 
 }

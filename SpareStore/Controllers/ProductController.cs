@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 namespace SpareStore.Controllers;
+using SpareStore.Models;
 using spares;
 
 public class ProductController : Controller
@@ -13,7 +14,7 @@ public class ProductController : Controller
     }
 
    
-    public IActionResult Addproduct(string name,double price,int quantity){
+    public IActionResult Addnewproduct(string name,double price,int quantity){
         Product prod = new Product();
         List<Product> p = prod.restoreProductData();
 
@@ -22,15 +23,24 @@ public class ProductController : Controller
         p.Add(tempproduct);
         prod.saveProductData(p);
 
-         //return Redirect("/Home");
+        return Redirect("Addsuccessfully");
 
-         return View();
         
     }
+    public IActionResult Addproduct(){
 
-    // public IActionResult Displayproduct(){
+        return View();
+    }
 
-    // }
+    public IActionResult Displayproduct(){
+        
+        
+        return View();
+    }
+    public IActionResult Addsuccessfully(){
+
+        return View();
+    }
 
     
 }
