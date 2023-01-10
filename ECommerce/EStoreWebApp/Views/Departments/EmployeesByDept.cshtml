@@ -1,0 +1,20 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Index Page";
+}
+<div>
+    <h1>List of EMployees by Id</h1>
+    @{
+        List<Employee> Employeesbydept =(List<Employee>)ViewData["employees"];
+        @foreach (Employee emp in Employeesbydept){
+            <ol>
+            <li>
+                Id=@emp.Id,Firstname=@emp.FirstName,Lastname=@emp.LastName
+            </li>
+            </ol>
+           
+
+        }
+    }
+</div>

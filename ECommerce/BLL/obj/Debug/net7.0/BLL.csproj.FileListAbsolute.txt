@@ -1,0 +1,17 @@
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\BLL.dll
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\BLL.pdb
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\BOL.dll
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\DAL.dll
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\BOL.pdb
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\bin\Debug\net7.0\DAL.pdb
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.dll
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\BLL.pdb
+D:\7. VS DotNet Data\dotnet\1. Lecture Data\Day11\ECommerce\BLL\obj\Debug\net7.0\ref\BLL.dll
