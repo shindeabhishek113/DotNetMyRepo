@@ -35,9 +35,8 @@ public class ProductsController : ControllerBase
     }
 
 [HttpPut]
-[EnableCors()]
-// Route["Update/{id}"]
-
+// [EnableCors()]
+[Route("update/{id}")]
     [HttpPut(Name = "UpdateProduct")]
     public ActionResult<Products> Update(int id){
         DBManager.UpdateProduct(id);
@@ -46,7 +45,7 @@ public class ProductsController : ControllerBase
 
 
 
-[EnableCors()]
+// [EnableCors()]
 [HttpDelete]
 [Route("delete/{id}")]
 

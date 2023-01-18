@@ -10,3 +10,15 @@ C:\Users\dac\Desktop\C#\BOL\obj\Debug\net7.0\BOL.dll
 C:\Users\dac\Desktop\C#\BOL\obj\Debug\net7.0\refint\BOL.dll
 C:\Users\dac\Desktop\C#\BOL\obj\Debug\net7.0\BOL.pdb
 C:\Users\dac\Desktop\C#\BOL\obj\Debug\net7.0\ref\BOL.dll
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\bin\Debug\net7.0\BOL.dll
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\bin\Debug\net7.0\BOL.pdb
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.dll
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\BOL.pdb
+E:\AbhishekGitRepo\DotNetMyRepo\C#\BOL\obj\Debug\net7.0\ref\BOL.dll
